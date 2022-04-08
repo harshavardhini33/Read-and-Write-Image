@@ -78,7 +78,7 @@ cv2.waitKey(0)
 
 ### ii)Write the image
 
-![b](./Screenshot%20(274).png
+![b](./Screenshot%20(274).png)
 <br>
 
 ### iii)Shape of the Image
